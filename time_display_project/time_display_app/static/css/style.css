@@ -1,0 +1,21 @@
+
+.container > div > h1 {
+    display: inline-block;
+    min-width: 50px;
+    border: 1px solid #000;
+    text-align: center;
+    padding: 10px;
+    font-weight: normal;
+}
+#timeBox {
+    display: inline-block;
+    min-width: 50px;
+    border: 1px solid #000;
+    text-align: center;
+    padding: 10px;
+    font-size: 50px;
+    font-weight: bold;
+}
+time {
+    display: inline-block !important;
+}
